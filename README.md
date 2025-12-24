@@ -3,3 +3,7 @@
 - Melakukan fork ke publick repository
 - Melakukan proses commit dan pull request
 - melakukan proses squash and merge
+<br>
+
+## Melakukan review code
+- membuat perubahan dan meminta admin review
