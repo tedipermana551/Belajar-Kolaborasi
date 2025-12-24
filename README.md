@@ -7,3 +7,4 @@
 
 ## Melakukan review code
 - membuat perubahan dan meminta admin review
+- membuat branch baru untuk latihan review
